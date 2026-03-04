@@ -1,77 +1,106 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Mona!</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-</p>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Mona%20Agrawal&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Art%20Lover&descAlignY=58&descColor=8b949e&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mona-Agrawall&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+always+growing+%F0%9F%9A%80;Turning+caffeine+into+code+%E2%98%95" alt="Typing SVG" />
+
+<br>
+
+<!-- PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=Mona-Agrawall&style=for-the-badge&color=0d76bf&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Mona-Agrawall?style=for-the-badge&color=0d76bf&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+
+</div>
+
+<br>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 BTech CSE student at SRM Institute of Science and Technology  
-- 📚 Learning Data Structures and Algorithms  
-- 🖥 Interested in Web Development  
-- ⚡ Fun fact: I love art  
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+```yaml
+Name       : Mona Agrawal
+Education  : BTech CSE @ SRM Institute of Science & Technology
+Focus      : Full-Stack Web Development
+Currently  : Learning Data Structures & Algorithms
+Interests  : Web Dev, Problem Solving, Art
+Fun_fact   : I love art 🎨
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark&perline=5" />
 
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=5" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=5" />
+
+</div>
 
 ---
 
-## 🌐 Find Me Around The Web
+## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/mona-agrawal-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/mona_agrawall/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
 </a>
-
+&nbsp;
 <a href="mailto:mona.mk.agrawal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
 </a>
 
-</p>
+<br><br>
+
+> 💬 *Feel free to reach out. I'm always open to collaborating on interesting projects!*
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mona-Agrawall&show_icons=true&theme=github_dark&cache_seconds=1800" 
-    alt="GitHub Stats" 
-    height="170"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Agrawall&layout=compact&theme=github_dark&cache_seconds=1800" 
-    alt="Top Languages" 
-    height="170"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mona-Agrawall&theme=github_dark" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mona-Agrawall&theme=github_dark" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Mona-Agrawall&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mona-Agrawall&theme=github_dark" alt="Profile Summary"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+*⭐ If you find my work interesting, consider giving a star!*
+
+</div>
