@@ -36,38 +36,15 @@ Fun_fact   : I love art 🎨
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center">
+## 🛠 Tech Stack
 
-**💬 Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark&perline=5" alt="Languages"/>
-
-<br/>
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind&theme=dark&perline=7" alt="Frontend"/>
-
-<br/>
-
-**⚙️ Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=4" alt="Backend"/>
-
-<br/>
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark&perline=5" alt="Databases"/>
-
-<br/>
-
-**🛠️ Tools & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode,figma&theme=dark&perline=6" alt="Tools and Cloud"/>
-
-</div>
+| 🚀 Category | 🧰 Technologies |
+|---|---|
+| 💻 Languages | <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=5" /> |
+| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind&perline=7" /> |
+| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" /> |
+| 🗄 Databases | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&perline=5" /> |
+| 🛠 Tools & Cloud | <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode,figma&perline=6" /> |
 
 ---
 
