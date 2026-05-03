@@ -37,24 +37,35 @@ Fun_fact   : I love art 🎨
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 **💬 Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark&perline=5" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&theme=dark&perline=5" alt="Languages"/>
 
 <br/>
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=5" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind&theme=dark&perline=7" alt="Frontend"/>
 
 <br/>
 
-**⚙️ Backend & Database**
+**⚙️ Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=5" alt="Backend and Database"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=4" alt="Backend"/>
+
+<br/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark&perline=5" alt="Databases"/>
+
+<br/>
+
+**🛠️ Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode,figma&theme=dark&perline=6" alt="Tools and Cloud"/>
 
 </div>
 
