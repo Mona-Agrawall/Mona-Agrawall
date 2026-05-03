@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Mona%20Agrawal&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Curious%20%7%20Explorer%20%7C%20Learner&descAlignY=58&descColor=8b949e&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Mona%20Agrawal&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Curious%20%7C%20Explorer%20%7C%20Learner&descAlignY=58&descColor=8b949e&animation=fadeIn" alt="Header Banner" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Building+things+for+the+web+%F0%9F%8C%90;Always+learning%2C+always+growing+%F0%9F%9A%80;Turning+caffeine+into+code+%E2%98%95" alt="Typing SVG" />
