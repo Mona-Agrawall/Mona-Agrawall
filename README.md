@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=180&section=header&text=Mona%20Agrawal&fontSize=48&fontColor=58a6ff&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=60&descColor=8b949e&animation=fadeIn" alt="Mona Agrawal" width="100%" />
+<img src="./assets/header.svg" alt="Mona Agrawal — AI & Full-Stack Developer | CSE Student" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%26+Full-Stack+Web+Developer;Currently+strengthening+Data+Structures+%26+Algorithms" alt="Typing intro" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mona-Agrawall&style=for-the-badge&color=0d76bf&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/Mona-Agrawall.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0d76bf&labelColor=0d1117" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Mona-Agrawall?style=for-the-badge&logo=github&color=0d76bf&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
 
@@ -102,6 +102,6 @@ I'm a Computer Science student who builds end-to-end web applications and AI-pow
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="" width="100%" />
 
 </div>
