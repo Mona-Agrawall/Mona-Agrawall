@@ -1,103 +1,107 @@
+<!-- ============================== HEADER ============================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=180&section=header&text=Mona%20Agrawal&fontSize=48&fontColor=58a6ff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=60&descColor=8b949e&animation=fadeIn" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=180&section=header&text=Mona%20Agrawal&fontSize=48&fontColor=58a6ff&fontAlignY=40&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=60&descColor=8b949e&animation=fadeIn" alt="Mona Agrawal" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=BTech+CSE;Artificial+Intelligence+and+Web+Developer;Currently+strengthening+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%26+Full-Stack+Web+Developer;Currently+strengthening+Data+Structures+%26+Algorithms" alt="Typing intro" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mona-Agrawall&style=for-the-badge&color=0d76bf&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Mona-Agrawall&style=for-the-badge&color=0d76bf&label=PROFILE+VIEWS" alt="Profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Mona-Agrawall?style=for-the-badge&color=0d76bf&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Mona-Agrawall?style=for-the-badge&logo=github&color=0d76bf&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
 
 </div>
 
 <br/>
+
+<!-- ============================== ABOUT ============================== -->
 
 ## About Me
 
 ```yaml
 Name       : Mona Agrawal
-Education  : BTech CSE
-Focus      : Full-Stack Web Development
+Education  : B.Tech, Computer Science & Engineering
+Focus      : AI & Full-Stack Web Development
 Currently  : Strengthening Data Structures & Algorithms
-Interests  : Artificial Intelligence, Machine learning, Web Development, Problem Solving
+Interests  : Artificial Intelligence, Machine Learning, Web Development, Problem Solving
 ```
 
-I'm a Computer Science student building end-to-end web applications, with a growing focus on algorithmic problem solving. I enjoy working across the stack — from designing interfaces to modeling data and shipping APIs.
+I'm a Computer Science student who builds end-to-end web applications and AI-powered tools. I enjoy working across the stack — designing interfaces, modeling data, shipping APIs — and I'm sharpening my algorithmic problem-solving along the way.
 
 ---
+
+<!-- ============================== TECH STACK ============================== -->
 
 ## Tech Stack
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=5" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=5" alt="C, C++, Python, JavaScript, TypeScript" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,vite,tailwind&perline=7" alt="HTML, CSS, React, Next.js, Vue, Vite, Tailwind CSS" />
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" alt="Node.js, Express, FastAPI, Flask" />
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&perline=5" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&perline=5" alt="MongoDB, MySQL, PostgreSQL, Firebase, Supabase" />
 
 **Tools & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,vscode,figma&perline=6" alt="Docker, AWS, Google Cloud, Git, VS Code, Figma" />
 
 ---
+
+<!-- ============================== GITHUB STATS ============================== -->
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mona-Agrawall&theme=github_dark" height="170" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mona-Agrawall&theme=github_dark" height="170" alt="GitHub stats" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mona-Agrawall&theme=github_dark" height="170" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mona-Agrawall&theme=github_dark" height="170" alt="Repositories per language" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mona-Agrawall&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Mona-Agrawall&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mona-Agrawall&theme=github_dark" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mona-Agrawall&theme=github_dark" width="100%" alt="GitHub profile summary" />
 
 </div>
 
 ---
+
+<!-- ============================== CONNECT ============================== -->
 
 ## Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mona-agrawal-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/mona-agrawal-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a>
 &nbsp;
-<a href="https://www.instagram.com/mona_agrawall/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
-</a>
+<a href="https://www.instagram.com/mona_agrawall/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" /></a>
 &nbsp;
-<a href="mailto:mona.mk.agrawal@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail"/>
-</a>
+<a href="mailto:mona.mk.agrawal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" /></a>
 
 <br/><br/>
 
-*Open to collaborating on interesting projects — feel free to reach out.*
+<em>Open to collaborating on interesting projects — feel free to reach out.</em>
 
 </div>
 
----
+<!-- ============================== FOOTER ============================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" alt="" width="100%" />
 
 </div>
