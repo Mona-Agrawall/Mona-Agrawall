@@ -6,11 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=B.Tech+in+Computer+Science+%26+Engineering;AI+%26+Full-Stack+Web+Developer;Currently+strengthening+Data+Structures+%26+Algorithms" alt="B.Tech CSE | AI & Full-Stack Web Developer | Strengthening DSA" />
 
-<br/><br/>
+<br/>
 
 <img src="https://hits.sh/github.com/Mona-Agrawall.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0d76bf&labelColor=0d1117" alt="Profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Mona-Agrawall?style=for-the-badge&logo=github&color=0d76bf&labelColor=0d1117&label=FOLLOWERS" alt="GitHub followers" />
+<a href="https://github.com/Mona-Agrawall?tab=followers"><img src="https://img.shields.io/badge/FOLLOW-Mona--Agrawall-0d76bf?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Follow Mona-Agrawall on GitHub" /></a>
 
 </div>
 
